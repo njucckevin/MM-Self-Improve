@@ -63,7 +63,7 @@ python self_train.py --model_name qwenvl --model_ckpt your_qwenvl_ckpt_dir/Qwen-
 The script will start iteratively self-training and save a log file below `./log` to record the training process, including dataset statistics and evaluation metrics.
 
 ***
-### Qwen2-VL Results & Scaling of Test-Time Compute
+### 🚩 Qwen2-VL Results & Scaling of Test-Time Compute
 To validate the generalizability of our framework, we applied it to [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL), a recently released advanced MLLM. 
 It also demonstrate the ability of our framework to boost the reasoning performance of MLLM through scaling test-time compute.
 See details in this [repo](https://github.com/Liac-li/MM-self-improve-qwen2vl).
