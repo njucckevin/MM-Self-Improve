@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: vlrlhf
+Version: 0.0.1
+Summary: A RLHF Infrastructure for Vision-Language Model.
+Author-email: Geary Zhang <gearyzhang@outlook.com>
+Maintainer-email: Geary Zhang <gearyzhang@outlook.com>
+Keywords: pytorch,RLHF,VLM
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: loguru
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: deepspeed
+Requires-Dist: transformers==4.41.0
+Requires-Dist: peft
+Requires-Dist: trl==0.8.1
+Requires-Dist: einops
+Requires-Dist: tiktoken
+Requires-Dist: matplotlib
+Requires-Dist: pillow
+Requires-Dist: transformers_stream_generator
+Requires-Dist: wandb
+Requires-Dist: jsonlines
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: pymysql
+Requires-Dist: openpyxl
+Requires-Dist: gradio_client
+Requires-Dist: pre-commit
