@@ -1,3 +1,6 @@
 [submodule "Qwen2vl"]
 	path = Qwen2vl
 	url = https://github.com/Liac-li/MM-self-improve-qwen2vl
+[submodule "Qwen2VL"]
+	path = Qwen2VL
+	url = https://github.com/Liac-li/MM-self-improve-qwen2vl
