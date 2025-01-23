@@ -7,6 +7,7 @@
 
 The code for the paper: [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/abs/2411.00855).
 This repository contains code that reproduces the self-train results in our paper.
+News: This paper was accepted by NAACL 2025.
 
 ![framework](assets/mmself.png)
 
